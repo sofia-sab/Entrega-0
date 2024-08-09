@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(228, 125, 205);
     text-align: center;
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(134, 81, 134);
     border-radius: 10px;
     height: 400px;
 }
